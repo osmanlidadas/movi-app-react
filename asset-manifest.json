@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/my-movi-app-react/static/css/main.e7720ab7.css",
-    "main.js": "/my-movi-app-react/static/js/main.006a809d.js",
-    "index.html": "/my-movi-app-react/index.html",
-    "main.e7720ab7.css.map": "/my-movi-app-react/static/css/main.e7720ab7.css.map",
-    "main.006a809d.js.map": "/my-movi-app-react/static/js/main.006a809d.js.map"
+    "main.css": "/movi-app-react/static/css/main.e7720ab7.css",
+    "main.js": "/movi-app-react/static/js/main.006a809d.js",
+    "index.html": "/movi-app-react/index.html",
+    "main.e7720ab7.css.map": "/movi-app-react/static/css/main.e7720ab7.css.map",
+    "main.006a809d.js.map": "/movi-app-react/static/js/main.006a809d.js.map"
   },
   "entrypoints": [
     "static/css/main.e7720ab7.css",
